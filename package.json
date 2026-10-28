@@ -1,0 +1,19 @@
+{
+  "name": "predictor-consumo-electrico",
+  "version": "1.0.0",
+  "description": "Aplicación web en Node.js y Express 5 para analizar y predecir el consumo eléctrico del hogar",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "express5",
+    "handlebars",
+    "predictor",
+    "consumo-electrico"
+  ],
+  "author": "",
+  "license": "ISC"
+}
+
